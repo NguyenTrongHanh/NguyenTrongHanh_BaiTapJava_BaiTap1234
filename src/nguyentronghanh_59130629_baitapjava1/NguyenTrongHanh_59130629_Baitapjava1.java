@@ -22,5 +22,4 @@ public class NguyenTrongHanh_59130629_Baitapjava1 {
         MainBaiTap2.main(args);
         MainBaiTap3.main(args);
     }
-    
 }
