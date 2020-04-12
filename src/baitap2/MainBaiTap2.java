@@ -94,6 +94,6 @@ public class MainBaiTap2 {
     qlNhanVien.them(nv3);
     qlNhanVien.them(nv4);
     qlNhanVien.them(nv5);
-    qlNhanVien.inDS();
+    qlNhanVien.inDS();                      
     }
 }

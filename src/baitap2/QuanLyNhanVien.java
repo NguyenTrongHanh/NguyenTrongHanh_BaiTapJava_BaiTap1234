@@ -17,6 +17,8 @@ public class QuanLyNhanVien implements IQuanLy{
     dsNhanVien.add(nv);
   };
   public void inDS() {
-    dsNhanVien.forEach(nv -> System.out.println(nv.getThongTin()));
+    for (int i = 0; i < dsNhanVien.size(); i++) {
+        System.out.println(dsNhanVien.get(i).getThongTin());
+    }
   };   
 }
