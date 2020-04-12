@@ -6,6 +6,7 @@
 package nguyentronghanh_59130629_baitapjava1;
 
 import baitap1.MainBaiTap1;
+import baitap2.MainBaiTap2;
 
 /**
  *
@@ -17,6 +18,7 @@ public class NguyenTrongHanh_59130629_Baitapjava1 {
      */
     public static void main(String[] args) {
         MainBaiTap1.main(args);
+        MainBaiTap2.main(args);
     }
     
 }
